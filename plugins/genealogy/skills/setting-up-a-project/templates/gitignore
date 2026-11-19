@@ -1,0 +1,26 @@
+# Git keeps the text of the project: markdown, scripts, graph (json), GEDCOM, tables.
+# Media, scans, audio and archives are not tracked: they do not change by editing and weigh gigabytes.
+*
+!*/
+!.gitignore
+!.gitkeep
+!*.md
+!*.py
+!*.json
+!*.jsonl
+!*.ged
+!*.csv
+!*.txt
+.DS_Store
+__pycache__/
+# never: credentials, browser captures, raw dumps of other people's records
+*cookie*
+*credential*
+*password*
+*secret*
+*token*.json
+*session*.json
+*.session
+*.har
+.env
+Work/**/raw_*

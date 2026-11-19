@@ -1,0 +1,14 @@
+{
+  "name": "agentic-genealogy",
+  "description": "Unofficial community skills for family-history research with Claude Code: sessions, searches, evidence, transcription, agent waves, family graph",
+  "owner": {
+    "name": "agentic-genealogy contributors"
+  },
+  "plugins": [
+    {
+      "name": "genealogy",
+      "source": "./plugins/genealogy",
+      "description": "Research discipline for agentic genealogy: ledgers, block-versus-zero searches, identification rules, transcription, incoming material, agent waves, family graph, privacy check"
+    }
+  ]
+}

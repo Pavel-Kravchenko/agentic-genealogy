@@ -1,0 +1,9 @@
+{
+  "name": "genealogy",
+  "description": "Research discipline for agentic genealogy: ledgers, block-versus-zero searches, identification rules, transcription, incoming material, agent waves, family graph, privacy check",
+  "version": "0.1.0",
+  "license": "CC-BY-4.0",
+  "author": {
+    "name": "agentic-genealogy contributors"
+  }
+}

@@ -1,0 +1,409 @@
+[
+ {
+  "id": "primerov-ivan-petrovich",
+  "name": "Примеров Иван Петрович",
+  "variants": [
+   "Примеровъ Иванъ Петровичъ"
+  ],
+  "sex": "m",
+  "family": "Примеров",
+  "birth": {
+   "date": "~1838",
+   "style": "",
+   "place": "Primerovka, Obraztsovskaya volost, N uezd",
+   "confidence": "low",
+   "source": ""
+  },
+  "death": {
+   "date": "1905-02-11",
+   "style": "",
+   "place": "Primerovka, Obraztsovskaya volost, N uezd",
+   "confidence": "medium",
+   "source": "death entry, parish register, fond <F>, opis <O>, delo <D>"
+  },
+  "disputes": [],
+  "notes": "Peasant. Birth year computed from the age given at death (67)."
+ },
+ {
+  "id": "primerova-anna-petrovna",
+  "name": "Примерова Анна Петровна (дев. Образцова)",
+  "variants": [
+   "Примерова Анна"
+  ],
+  "sex": "f",
+  "family": "Примеров",
+  "birth": {
+   "date": "1842",
+   "style": "",
+   "place": "Obraztsovskaya volost, N uezd",
+   "confidence": "low",
+   "source": ""
+  },
+  "death": {
+   "date": "1911-09-30",
+   "style": "",
+   "place": "Primerovka",
+   "confidence": "medium",
+   "source": "death entry, parish register, fond <F>, opis <O>, delo <D>"
+  },
+  "disputes": []
+ },
+ {
+  "id": "primerov-pyotr-ivanovich",
+  "name": "Примеров Пётр Иванович",
+  "variants": [],
+  "sex": "m",
+  "family": "Примеров",
+  "birth": {
+   "date": "1868-05-12",
+   "style": "OS",
+   "place": "Primerovka",
+   "confidence": "high",
+   "source": "baptism entry, parish register, fond <F>, opis <O>, delo <D>"
+  },
+  "death": {
+   "date": "1934-03-02",
+   "style": "",
+   "place": "Primerovka",
+   "confidence": "medium",
+   "source": "family memory"
+  },
+  "disputes": [],
+  "notes": "Date of birth is Old Style (Julian); the New Style date is 1868-05-24."
+ },
+ {
+  "id": "primerova-maria-ivanovna-1872",
+  "name": "Примерова Мария Ивановна (дев. Образцова)",
+  "variants": [],
+  "sex": "f",
+  "family": "Примеров",
+  "birth": {
+   "date": "1872-02-20",
+   "style": "OS",
+   "place": "Obraztsovskaya volost, N uezd",
+   "confidence": "high",
+   "source": "baptism entry, parish register, fond <F>, opis <O>, delo <D>"
+  },
+  "death": {
+   "date": "1940-06-18",
+   "style": "",
+   "place": "Primerovka",
+   "confidence": "medium",
+   "source": "family memory"
+  },
+  "disputes": []
+ },
+ {
+  "id": "obraztsova-anna-ivanovna",
+  "name": "Образцова Анна Ивановна (дев. Примерова)",
+  "variants": [],
+  "sex": "f",
+  "family": "Примеров",
+  "birth": {
+   "date": "1874-01-20",
+   "style": "",
+   "place": "Primerovka",
+   "confidence": "high",
+   "source": "baptism entry, parish register, fond <F>, opis <O>, delo <D>"
+  },
+  "death": {
+   "date": "1921-01-10",
+   "style": "",
+   "place": "Primerovka",
+   "confidence": "medium",
+   "source": "family memory"
+  },
+  "disputes": []
+ },
+ {
+  "id": "obraztsov-pyotr-ivanovich",
+  "name": "Образцов Пётр Иванович",
+  "variants": [],
+  "sex": "m",
+  "family": "Образцов",
+  "birth": {
+   "date": "1870-10-05",
+   "style": "",
+   "place": "Obraztsovskaya volost, N uezd",
+   "confidence": "medium",
+   "source": "family memory"
+  },
+  "death": {
+   "date": "before 1931",
+   "style": "",
+   "place": "",
+   "confidence": "low",
+   "source": ""
+  },
+  "disputes": [],
+  "notes": "Brother of Maria Ivanovna (wife of Pyotr Ivanovich Primerov): stated by the family, no document."
+ },
+ {
+  "id": "primerov-ivan-petrovich-1895",
+  "name": "Примеров Иван Петрович",
+  "variants": [],
+  "sex": "m",
+  "family": "Примеров",
+  "birth": {
+   "date": "1895-11-03",
+   "style": "",
+   "place": "Primerovka",
+   "confidence": "high",
+   "source": "baptism entry, parish register, fond <F>, opis <O>, delo <D>"
+  },
+  "death": {
+   "date": "1942-04-20",
+   "style": "",
+   "place": "Primerovka",
+   "confidence": "medium",
+   "source": "family memory"
+  },
+  "disputes": [],
+  "notes": "Named after his grandfather; same name as the earliest node, a different person."
+ },
+ {
+  "id": "primerova-maria-petrovna",
+  "name": "Примерова Мария Петровна",
+  "variants": [
+   "Näidis Mari",
+   "Найдис Мария Петровна"
+  ],
+  "sex": "f",
+  "family": "Примеров",
+  "birth": {
+   "date": "1898-07-09",
+   "style": "",
+   "place": "Primerovka",
+   "confidence": "high",
+   "source": "baptism entry, parish register, fond <F>, opis <O>, delo <D>"
+  },
+  "death": {
+   "date": "1976-12-01",
+   "style": "",
+   "place": "parish X, Estonia",
+   "confidence": "medium",
+   "source": "death certificate"
+  },
+  "disputes": []
+ },
+ {
+  "id": "primerova-anna-petrovna-1926",
+  "name": "Примерова Анна Петровна",
+  "variants": [],
+  "sex": "f",
+  "family": "Примеров",
+  "birth": {
+   "date": "1926-03-01",
+   "style": "",
+   "place": "Primerovka",
+   "confidence": "medium",
+   "source": "family memory"
+  },
+  "death": null,
+  "disputes": [],
+  "notes": "Recorded as a daughter of Pyotr Ivanovich and Maria Ivanovna; see the check_graph findings."
+ },
+ {
+  "id": "obraztsova-anna-petrovna",
+  "name": "Образцова Анна Петровна",
+  "variants": [],
+  "sex": "f",
+  "family": "Образцов",
+  "birth": {
+   "date": "1899-04-17",
+   "style": "",
+   "place": "Obraztsovskaya volost, N uezd",
+   "confidence": "disputed",
+   "source": "baptism entry, parish register, fond <F>, opis <O>, delo <D>"
+  },
+  "death": {
+   "date": "1975",
+   "style": "",
+   "place": "",
+   "confidence": "low",
+   "source": ""
+  },
+  "disputes": [
+   "birth: baptism entry says 1899-04-17; the gravestone gives only the year 1898"
+  ]
+ },
+ {
+  "id": "obraztsov-ivan-petrovich",
+  "name": "Образцов Иван Петрович",
+  "variants": [],
+  "sex": "m",
+  "family": "Образцов",
+  "birth": {
+   "date": "1923-05-02",
+   "style": "",
+   "place": "Obraztsovskaya volost, N uezd",
+   "confidence": "medium",
+   "source": "family memory"
+  },
+  "death": null,
+  "disputes": [],
+  "notes": "Recorded as a son of Anna Ivanovna, who died in 1921; see the check_graph findings."
+ },
+ {
+  "id": "paraugs-anna",
+  "name": "Paraugs Anna",
+  "variants": [
+   "Параугс Анна"
+  ],
+  "sex": "f",
+  "family": "Paraugs",
+  "birth": {
+   "date": "1897-03-15",
+   "style": "",
+   "place": "the Paraugi farm, Latvia",
+   "confidence": "medium",
+   "source": "marriage entry, parish register, fond <F>, opis <O>, delo <D>"
+  },
+  "death": {
+   "date": "1969-08-22",
+   "style": "",
+   "place": "Moscow",
+   "confidence": "medium",
+   "source": "death certificate"
+  },
+  "disputes": []
+ },
+ {
+  "id": "primerov-pyotr-ivanovich-1921",
+  "name": "Примеров Пётр Иванович",
+  "variants": [
+   "Примеров Пётр"
+  ],
+  "sex": "m",
+  "family": "Примеров",
+  "birth": {
+   "date": "1921-08-30",
+   "style": "",
+   "place": "Moscow",
+   "confidence": "high",
+   "source": "birth certificate"
+  },
+  "death": {
+   "date": "1943-07-14",
+   "style": "",
+   "place": "",
+   "confidence": "medium",
+   "source": "family memory"
+  },
+  "disputes": []
+ },
+ {
+  "id": "ext-primerow-pyotr-ivanovich",
+  "name": "Primerow Pyotr Ivanovich",
+  "variants": [],
+  "sex": "m",
+  "family": "Primerow",
+  "birth": {
+   "date": "1921-08-30",
+   "style": "",
+   "place": "Moscow",
+   "confidence": "medium",
+   "source": "imported tree, node 17"
+  },
+  "death": {
+   "date": "1943",
+   "style": "",
+   "place": "",
+   "confidence": "low",
+   "source": "imported tree, node 17"
+  },
+  "disputes": [],
+  "sources": [
+   "external tree, import 2026-01-01"
+  ],
+  "external_ids": {
+   "external": "node-17"
+  }
+ },
+ {
+  "id": "primerova-maria-ivanovna-1924",
+  "name": "Примерова Мария Ивановна",
+  "variants": [],
+  "sex": "f",
+  "family": "Примеров",
+  "birth": {
+   "date": "1924-12-02",
+   "style": "",
+   "place": "Moscow",
+   "confidence": "high",
+   "source": "birth certificate"
+  },
+  "death": null,
+  "disputes": []
+ },
+ {
+  "id": "naidis-jaan",
+  "name": "Näidis Jaan",
+  "variants": [
+   "Найдис Яан",
+   "Naidis Jaan"
+  ],
+  "sex": "m",
+  "family": "Näidis",
+  "birth": {
+   "date": "1894-06-14",
+   "style": "",
+   "place": "parish X, Estonia",
+   "confidence": "high",
+   "source": "church book of parish X, <fond>.<series>.<item>"
+  },
+  "death": {
+   "date": "1964-01-09",
+   "style": "",
+   "place": "parish X, Estonia",
+   "confidence": "medium",
+   "source": "death certificate"
+  },
+  "disputes": []
+ },
+ {
+  "id": "naidis-mari",
+  "name": "Näidis Mari",
+  "variants": [],
+  "sex": "f",
+  "family": "Näidis",
+  "birth": {
+   "date": "1925-06-01",
+   "style": "",
+   "place": "parish X, Estonia",
+   "confidence": "high",
+   "source": "church book of parish X, <fond>.<series>.<item>"
+  },
+  "death": null,
+  "disputes": []
+ },
+ {
+  "id": "naidis-juhan",
+  "name": "Näidis Juhan",
+  "variants": [
+   "Найдис Юхан"
+  ],
+  "sex": "m",
+  "family": "Näidis",
+  "birth": {
+   "date": "1928-02-17",
+   "style": "",
+   "place": "parish X, Estonia",
+   "confidence": "medium",
+   "source": "family memory"
+  },
+  "death": null,
+  "disputes": []
+ },
+ {
+  "id": "maria-petrovna-godmother",
+  "name": "Мария Петровна",
+  "variants": [],
+  "sex": "f",
+  "family": "",
+  "birth": null,
+  "death": null,
+  "disputes": [],
+  "notes": "Godmother at the baptism of Pyotr Ivanovich Primerov. Named in the entry only by given name and patronymic; no surname, no dates."
+ }
+]

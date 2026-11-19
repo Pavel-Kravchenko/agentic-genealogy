@@ -1,0 +1,242 @@
+[
+ {
+  "from": "primerov-ivan-petrovich",
+  "type": "SPOUSE",
+  "to": "primerova-anna-petrovna",
+  "confidence": "medium",
+  "source": "family memory",
+  "note": ""
+ },
+ {
+  "from": "primerov-ivan-petrovich",
+  "type": "PARENT",
+  "to": "primerov-pyotr-ivanovich",
+  "confidence": "high",
+  "source": "baptism entry, parish register, fond <F>, opis <O>, delo <D>",
+  "note": ""
+ },
+ {
+  "from": "primerova-anna-petrovna",
+  "type": "PARENT",
+  "to": "primerov-pyotr-ivanovich",
+  "confidence": "high",
+  "source": "baptism entry, parish register, fond <F>, opis <O>, delo <D>",
+  "note": ""
+ },
+ {
+  "from": "primerov-ivan-petrovich",
+  "type": "PARENT",
+  "to": "obraztsova-anna-ivanovna",
+  "confidence": "medium",
+  "source": "family memory",
+  "note": ""
+ },
+ {
+  "from": "primerova-anna-petrovna",
+  "type": "PARENT",
+  "to": "obraztsova-anna-ivanovna",
+  "confidence": "medium",
+  "source": "family memory",
+  "note": ""
+ },
+ {
+  "from": "primerov-pyotr-ivanovich",
+  "type": "SPOUSE",
+  "to": "primerova-maria-ivanovna-1872",
+  "confidence": "high",
+  "source": "marriage entry, parish register, fond <F>, opis <O>, delo <D>",
+  "note": ""
+ },
+ {
+  "from": "primerov-pyotr-ivanovich",
+  "type": "PARENT",
+  "to": "primerov-ivan-petrovich-1895",
+  "confidence": "high",
+  "source": "baptism entry, parish register, fond <F>, opis <O>, delo <D>",
+  "note": ""
+ },
+ {
+  "from": "primerova-maria-ivanovna-1872",
+  "type": "PARENT",
+  "to": "primerov-ivan-petrovich-1895",
+  "confidence": "high",
+  "source": "baptism entry, parish register, fond <F>, opis <O>, delo <D>",
+  "note": ""
+ },
+ {
+  "from": "primerov-pyotr-ivanovich",
+  "type": "PARENT",
+  "to": "primerova-maria-petrovna",
+  "confidence": "high",
+  "source": "baptism entry, parish register, fond <F>, opis <O>, delo <D>",
+  "note": ""
+ },
+ {
+  "from": "primerova-maria-ivanovna-1872",
+  "type": "PARENT",
+  "to": "primerova-maria-petrovna",
+  "confidence": "high",
+  "source": "baptism entry, parish register, fond <F>, opis <O>, delo <D>",
+  "note": ""
+ },
+ {
+  "from": "primerov-pyotr-ivanovich",
+  "type": "PARENT",
+  "to": "primerova-anna-petrovna-1926",
+  "confidence": "low",
+  "source": "family memory",
+  "note": ""
+ },
+ {
+  "from": "primerova-maria-ivanovna-1872",
+  "type": "PARENT",
+  "to": "primerova-anna-petrovna-1926",
+  "confidence": "low",
+  "source": "family memory",
+  "note": ""
+ },
+ {
+  "from": "obraztsova-anna-ivanovna",
+  "type": "SPOUSE",
+  "to": "obraztsov-pyotr-ivanovich",
+  "confidence": "medium",
+  "source": "family memory",
+  "note": ""
+ },
+ {
+  "from": "obraztsova-anna-ivanovna",
+  "type": "PARENT",
+  "to": "obraztsova-anna-petrovna",
+  "confidence": "medium",
+  "source": "family memory",
+  "note": ""
+ },
+ {
+  "from": "obraztsov-pyotr-ivanovich",
+  "type": "PARENT",
+  "to": "obraztsova-anna-petrovna",
+  "confidence": "medium",
+  "source": "family memory",
+  "note": ""
+ },
+ {
+  "from": "obraztsova-anna-ivanovna",
+  "type": "PARENT",
+  "to": "obraztsov-ivan-petrovich",
+  "confidence": "low",
+  "source": "family memory",
+  "note": "mother's death date makes this link doubtful"
+ },
+ {
+  "from": "obraztsov-pyotr-ivanovich",
+  "type": "PARENT",
+  "to": "obraztsov-ivan-petrovich",
+  "confidence": "low",
+  "source": "family memory",
+  "note": ""
+ },
+ {
+  "from": "primerov-ivan-petrovich-1895",
+  "type": "SPOUSE",
+  "to": "paraugs-anna",
+  "confidence": "high",
+  "source": "marriage entry, parish register, fond <F>, opis <O>, delo <D>",
+  "note": ""
+ },
+ {
+  "from": "primerov-ivan-petrovich-1895",
+  "type": "PARENT",
+  "to": "primerov-pyotr-ivanovich-1921",
+  "confidence": "high",
+  "source": "birth certificate",
+  "note": ""
+ },
+ {
+  "from": "paraugs-anna",
+  "type": "PARENT",
+  "to": "primerov-pyotr-ivanovich-1921",
+  "confidence": "high",
+  "source": "birth certificate",
+  "note": ""
+ },
+ {
+  "from": "primerov-ivan-petrovich-1895",
+  "type": "PARENT",
+  "to": "ext-primerow-pyotr-ivanovich",
+  "confidence": "medium",
+  "source": "imported tree, node 17",
+  "note": ""
+ },
+ {
+  "from": "primerov-ivan-petrovich-1895",
+  "type": "PARENT",
+  "to": "primerova-maria-ivanovna-1924",
+  "confidence": "high",
+  "source": "birth certificate",
+  "note": ""
+ },
+ {
+  "from": "paraugs-anna",
+  "type": "PARENT",
+  "to": "primerova-maria-ivanovna-1924",
+  "confidence": "high",
+  "source": "birth certificate",
+  "note": ""
+ },
+ {
+  "from": "primerova-maria-petrovna",
+  "type": "SPOUSE",
+  "to": "naidis-jaan",
+  "confidence": "high",
+  "source": "marriage certificate",
+  "note": ""
+ },
+ {
+  "from": "primerova-maria-petrovna",
+  "type": "PARENT",
+  "to": "naidis-mari",
+  "confidence": "high",
+  "source": "church book of parish X, <fond>.<series>.<item>",
+  "note": ""
+ },
+ {
+  "from": "naidis-jaan",
+  "type": "PARENT",
+  "to": "naidis-mari",
+  "confidence": "high",
+  "source": "church book of parish X, <fond>.<series>.<item>",
+  "note": ""
+ },
+ {
+  "from": "primerova-maria-petrovna",
+  "type": "PARENT",
+  "to": "naidis-juhan",
+  "confidence": "medium",
+  "source": "family memory",
+  "note": ""
+ },
+ {
+  "from": "naidis-jaan",
+  "type": "PARENT",
+  "to": "naidis-juhan",
+  "confidence": "medium",
+  "source": "family memory",
+  "note": ""
+ },
+ {
+  "from": "maria-petrovna-godmother",
+  "type": "GODPARENT",
+  "to": "primerov-pyotr-ivanovich",
+  "confidence": "high",
+  "source": "baptism entry, parish register, fond <F>, opis <O>, delo <D>",
+  "note": "godmother"
+ },
+ {
+  "from": "primerova-anna-petrovna",
+  "type": "POSSIBLE_KIN",
+  "to": "primerova-maria-ivanovna-1872",
+  "confidence": "low",
+  "source": "",
+  "note": "same maiden name Obraztsova, no document"
+ }
+]
